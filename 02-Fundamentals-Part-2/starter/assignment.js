@@ -14,7 +14,7 @@ const descPortugal = describeCountry("Portugal", 10, "Lisbon");
 const descSouthAfrica = describeCountry("South Africa", 60, "Cape Town");
 const descFinland = describeCountry("Findland", 6, "Helsinki");
 console.log(descPortugal, descSouthAfrica, descFinland);
-*/
+
 
 ///////////////////////////////////////
 // Assignment: Function Declarations vs. Expressions
@@ -36,3 +36,4 @@ const percPortugal2 = percentageOfWorld2(10);
 const percSouthAfrica2 = percentageOfWorld2(60);
 const percChina2 = percentageOfWorld2(1441);
 console.log(percPortugal2, percSouthAfrica2, percChina2);
+*/
